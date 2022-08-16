@@ -37,6 +37,7 @@ I want to make a beautiful server 🐣 </p>
 <div align="center">
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwjd7955">
+    
 </div>
 <br>
 
