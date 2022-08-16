@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFFAA0&text=YangJennie&animation=blink&height=150&section=header&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFFAA0&text=YangJenniee&animation=blink&height=150&section=header&fontSize=70)
 
 <h3 align="center"> Hello world! </h3>
 <p align="center"> Hi! there 😀 I'm a junior developer studying the backend ✌🏻<br>
