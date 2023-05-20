@@ -33,7 +33,12 @@ I want to make a beautiful server 🐣 </p>
 
 </div>
 
+<div align="center">
 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwjd7955">
+
+</div>
+<br>
 
 <h3 align="center"><b>🔫 Hits 🔫 </b></h3>
 <p align="center">
