@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FFFAA0&text=YangJenniee&animation=blink&height=150&section=header&fontSize=70)
 
 <h3 align="center"> Hello world! </h3>
-<p align="center"> Hi! there 😀 I'm a junior developer studying the backend ✌🏻<br>
-I want to make a beautiful server 🐣 </p>
-<br>
 
 <h3 align="center">💻 Tech List 💻</h3>
 <p align="center"> Techs that I've used at least once </p>
